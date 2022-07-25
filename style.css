@@ -12,6 +12,7 @@
     align-items: center;
     justify-content: center;
     position: relative;
+    font-family: 'Courier New', Courier, monospace;
 }
 /* .container img{
     width: 60%; */
